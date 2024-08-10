@@ -1,0 +1,9 @@
+# ide
+.vscode
+
+# node
+node_modules/
+
+# vitepress
+cache/
+
